@@ -1,0 +1,39 @@
+.head {
+    background-color: #c4ac25;
+    border-style: 1px solid black;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.font {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #141411;
+    margin-bottom: 10px;
+}
+
+.nav-1,
+.nav-2,
+.nav-3,
+.nav-4 {
+    background-color: #ba2b5f;
+    top: 0px;
+    left: 0px;
+    height: 30px;
+    width: 100%;
+    position: sticky;
+}
+
+.list-1,
+.list-2,
+.list-3,
+.list-4 {
+    background-color: #4f2bba;
+    margin-right: 10px;
+    width: 100%;
+}
+
+.bor {
+    border-style: 2px solid black;
+    border-radius: 15px;
+}
